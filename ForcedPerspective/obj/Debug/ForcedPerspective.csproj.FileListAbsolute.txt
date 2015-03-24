@@ -1,0 +1,9 @@
+c:\users\tim\documents\visual studio 2012\Projects\ForcedPerspective\ForcedPerspective\bin\Debug\ForcedPerspective.exe.config
+c:\users\tim\documents\visual studio 2012\Projects\ForcedPerspective\ForcedPerspective\bin\Debug\ForcedPerspective.exe
+c:\users\tim\documents\visual studio 2012\Projects\ForcedPerspective\ForcedPerspective\bin\Debug\ForcedPerspective.pdb
+c:\users\tim\documents\visual studio 2012\Projects\ForcedPerspective\ForcedPerspective\obj\Debug\ForcedPerspective.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2012\Projects\ForcedPerspective\ForcedPerspective\obj\Debug\ForcedPerspective.Form1.resources
+c:\users\tim\documents\visual studio 2012\Projects\ForcedPerspective\ForcedPerspective\obj\Debug\ForcedPerspective.Properties.Resources.resources
+c:\users\tim\documents\visual studio 2012\Projects\ForcedPerspective\ForcedPerspective\obj\Debug\ForcedPerspective.csproj.GenerateResource.Cache
+c:\users\tim\documents\visual studio 2012\Projects\ForcedPerspective\ForcedPerspective\obj\Debug\ForcedPerspective.exe
+c:\users\tim\documents\visual studio 2012\Projects\ForcedPerspective\ForcedPerspective\obj\Debug\ForcedPerspective.pdb
